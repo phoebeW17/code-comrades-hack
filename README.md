@@ -2,7 +2,7 @@
 
 Secrets of the Source Code is an interactive mystery game built with Django. Players uncover the mystery by making accusations, questioning suspects, and solving cases in a turn-based system. Dive into the game and test your detective skills as you unravel the secrets of the source code! 🕵🔍
 
-[Live Site]()
+[Live Site](https://secrets-of-the-source-code-6757a3bb8262.herokuapp.com/)
 
 ![Am I responsive]()
 
